@@ -20,7 +20,7 @@ setTimeout(() => {
       document.getElementById("display").innerText = "1";
   setTimeout(() => {
     document.getElementById("display").innerText =
-       "Congratulations We have successfully Entered into the Advanced JS";
+       "Happy Independence Day";
         }, 1000);
     }, 1000);
     }, 1000);
